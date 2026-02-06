@@ -18,7 +18,7 @@ This repository is designed to:
 
 | Language | Folder | Status | Projects |
 |----------|--------|--------|----------|
-| Python | `Python/` | 🔄 Planned | comin very soon |
+| Python | `Python/` | ✅ Started | 2 projects done |
 | HTML/CSS/JS | `HCJ/` | 🔄 Planned | Coming soon |
 | C | `C/` | 🔄 Planned | Coming soon |
 | Java | `JAVA/` | 🔄 Planned | Coming soon |
