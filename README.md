@@ -77,7 +77,7 @@ cd Mini_Projects
 
 ## 🏗️ Planned Additions
 
-- [ ] **Initial setup** in Python
+- [✔️] **Initial setup** with Python
 - [ ] **Web projects** (Todo app, weather app, etc.)
 - [ ] **System programming** in C
 - [ ] **Desktop apps** in Java
@@ -115,3 +115,6 @@ If you find this repository helpful:
 **Happy Coding!** 💻✨
 
 *"The best way to learn is by building."*
+
+---
+# To know what's new Read [**Change Log**](CHANGELOG.md)
