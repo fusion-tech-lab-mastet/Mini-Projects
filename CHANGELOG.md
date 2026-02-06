@@ -7,9 +7,7 @@
 | # | Project | Description | Difficulty | Status | About |
 |---|---------|-------------|------------|--------|-------|
 | 1 | **[Basic Calculator](Python/Basic-Calculator/)** | CLI calculator with session history tracking | Beginner | ✅ Completed | **[About](Python/Basic-Calculator/README.md)** |
-|---|---------|-------------|------------|--------|-------|
 | 2 | **[Todo List Manager](Python/Todo-List-Manager/)** | CLI calculator with session history tracking | Beginner | ✅ Completed | **[About](Python/Todo-List-Manager/README.md)** |
-|---|---------|-------------|------------|--------|-------|
 
 ### 🔄 Upcoming Python Projects (DEAD LINE: 06-03-2026)
 1. **Password Generator** - Customizable length & character types
