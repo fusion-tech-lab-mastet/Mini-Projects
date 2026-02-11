@@ -7,17 +7,17 @@
 | # | Project | Description | Difficulty | Status | About |
 |---|---------|-------------|------------|--------|-------|
 | 1 | **[Basic Calculator](Python/Basic-Calculator/)** | CLI calculator with session history tracking | Beginner | ✅ Completed | **[About](Python/Basic-Calculator/README.md)** |
-| 2 | **[Todo List Manager](Python/Todo-List-Manager/)** | CLI calculator with session history tracking | Beginner | ✅ Completed | **[About](Python/Todo-List-Manager/README.md)** |
+| 2 | **[Todo List Manager](Python/Todo-List-Manager/)** | CLI todo list maager with multiple managing options | Beginner | ✅ Completed | **[About](Python/Todo-List-Manager/README.md)** |
+| 3 | **[Password Generator](Python/Password_Generator/)** | CLI password generator with variuos type of password option | Beginner | ✅ Completed | **[About](Python/Password_Generator/README.md)** |
 
 ### 🔄 Upcoming Python Projects (DEAD LINE: 06-03-2026)
-1. **Password Generator** - Customizable length & character types
-2. **Number Guessing Game** - Computer vs user with difficulty levels
-3. **Rock Paper Scissors** - Best of 5 rounds with score tracking
-4. **BMI Calculator** - Metric/Imperial units with health categories
-5. **Currency Converter** - Fixed rates with update functionality
-6. **Word Counter** - File/text input with frequency analysis
-7. **Alarm Clock** - Desktop notification alarm
-8. **Email Slicer** - Extract username/domain with validation
+1. **Number Guessing Game** - Computer vs user with difficulty levels
+2. **Rock Paper Scissors** - Best of 5 rounds with score tracking
+3. **BMI Calculator** - Metric/Imperial units with health categories
+4. **Currency Converter** - Fixed rates with update functionality
+5. **Word Counter** - File/text input with frequency analysis
+6. **Alarm Clock** - Desktop notification alarm
+7. **Email Slicer** - Extract username/domain with validation
 
 ## 🌐 **HCJ Projects** (HTML/CSS/JavaScript)
 
